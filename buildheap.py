@@ -1,4 +1,8 @@
 #python2
+'''
+This code constructs min heap
+'''
+
 from __future__ import  print_function
 
 
