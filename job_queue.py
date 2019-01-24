@@ -1,6 +1,6 @@
 # python3
 '''
-This code simulate a program that processes a list of jobs in parallel usingg priority queue  
+This code simulate a program that processes a list of jobs in parallel using priority queue  
 '''
 
 
